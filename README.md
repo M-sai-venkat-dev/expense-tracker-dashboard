@@ -2,9 +2,13 @@
 
 ## Internship Details
 
-**Intern Name:** Manda Sai Venkat  
-**Intern ID:**  CTTS037**
-**Program:** Full Stack Web Development Internship  
+**Intern Name: Manda Sai Venkat**
+
+**Intern ID: CTTS037**
+
+**No. of Weeks : 4 Weeks**
+
+**Program:** Full Stack Web Development Internship
 
 ---
 
